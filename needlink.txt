@@ -1,0 +1,11 @@
+https://towardsdatascience.com/tagged/rfm-analysis
+
+https://www.optimove.com/resources/learning-center/rfm-segmentation#:~:text=What%20is%20RFM%20Segmentation%3F,loyalty%20and%20customer%20lifetime%20value.
+
+https://docs.google.com/document/d/15J5Sy9fVDR7SIG2249G_EButBnjyrJOZJBMOY5gIQKQ/edit
+
+---- tableau
+https://public.tableau.com/app/profile/jose.jerin/viz/SegmentationDashboardExample/SegmentationDashboard1
+https://public.tableau.com/en-us/search/all/%23Segmentation
+https://public.tableau.com/app/profile/nadejda.karaboycheva/viz/EventClusterDashboard/EventClusterDashboard
+
