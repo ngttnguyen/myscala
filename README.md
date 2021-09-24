@@ -7,10 +7,10 @@ Voizfm là nền tảng nghe Sách nói và Podcast chất lượng cao, 100% B�
 4.	Bàn giao và đề xuất các bước tiếp theo
 
 # Clustering
-[Code]https://github.com/ngttnguyen/myscala/blob/main/Voiz_project/Voizfm_Clustering_RFD.ipynb
+[Code] https://github.com/ngttnguyen/myscala/blob/main/Voiz_project/Voizfm_Clustering_RFD.ipynb
 # Rollrate Analysis
-[Code]https://github.com/ngttnguyen/myscala/blob/main/Voiz_project/VoizFM_rollrate_analysis.ipynb
+[Code] https://github.com/ngttnguyen/myscala/blob/main/Voiz_project/VoizFM_rollrate_analysis.ipynb
 # Dashboard
-[HERE]https://public.tableau.com/app/profile/tuan8383/viz/VoizFM/Dashboard_1?publish=yes
+[HERE] https://public.tableau.com/app/profile/tuan8383/viz/VoizFM/Dashboard_1?publish=yes
 # Overall
-[HERE]https://github.com/ngttnguyen/myscala/blob/main/VoizFm%20Presentation%20.pptx
+[HERE] https://github.com/ngttnguyen/myscala/blob/main/VoizFm%20Presentation%20.pptx
