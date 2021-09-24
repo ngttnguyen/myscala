@@ -3,7 +3,7 @@ Voizfm là nền tảng nghe Sách nói và Podcast chất lượng cao, 100% B�
 # Bài toán
 1.	Tìm hiểu và thảo luận để hình thành các giả thuyết về hành vi người dùng
 2.	Xây dựng các mô hình giải thích, tiên đoán, clustering
-3.	Dựa trên kết quả bước (3) + (4), thiết kế, nâng cấp User Clusters Dashboard hiện có
+3.	Dựa trên kết quả bước, thiết kế, nâng cấp User Clusters Dashboard hiện có
 4.	Bàn giao và đề xuất các bước tiếp theo
 
 # Clustering
