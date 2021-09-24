@@ -13,4 +13,4 @@ Code: https://github.com/ngttnguyen/myscala/blob/main/Voiz_project/VoizFM_rollra
 # Dashboard
 Link: https://public.tableau.com/app/profile/tuan8383/viz/VoizFM/Dashboard_1?publish=yes
 # Overall
-Presentation: https://github.com/ngttnguyen/myscala/blob/main/VoizFm%20Presentation%20.pptx
+Presentation: https://docs.google.com/presentation/d/1AQuo17RjGQ29k7MRzs-xWuPHWUdJaTm3Xha9K_CG-jc/edit#slide=id.p
